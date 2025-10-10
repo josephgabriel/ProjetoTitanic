@@ -57,14 +57,19 @@ Este projeto realiza uma **Análise Exploratória de Dados (EDA)** do famoso dat
 git clone https://github.com/josephgabriel/projeto-titanic.git
 ```
 2. Entre na pasta do projeto:
+```bash
 cd projeto-titanic
-
-3. Ative o ambiente virtual:
+```
+4. Ative o ambiente virtual:
+```bash
 source .venv/bin/activate
-
-4. Instale as dependências:
+```
+5. Instale as dependências:
+```bash
 pip install -r requirements.txt
+```
 
-
-5. Execute o notebook:
+7. Execute o notebook:
+```bash
 jupyter notebook notebooks/eda_titanic.ipynb
+```
