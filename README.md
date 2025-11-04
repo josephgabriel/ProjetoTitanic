@@ -68,8 +68,7 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
-7. Execute o notebook:
+6. Execute o notebook:
 ```bash
 jupyter notebook notebooks/eda_titanic.ipynb
 ```
